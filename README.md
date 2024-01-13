@@ -17,11 +17,11 @@
 Tetris is a classic puzzle game where players manipulate falling tetrominoes to create complete rows, which then disappear. The goal is to clear as many lines as possible and achieve a high score.
 
 # 2- Features
-Graphics and Rendering using SFML.
-Core Tetris game mechanics: tetromino movement, rotation, and line clearing.
-Scoring system based on the number of cleared lines.
-Increasing difficulty with advancing levels.
-User interface displaying score, level, and game information.
+Graphics and Rendering using SFML,
+Core Tetris game mechanics: tetromino movement, rotation, and line clearing,
+Scoring system based on the number of cleared lines,
+Increasing difficulty with advancing levels,
+User interface displaying score, level, and game information, 
 
 # 3- Technologies Used
 C++ for game logic.
